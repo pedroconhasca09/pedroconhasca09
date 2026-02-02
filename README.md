@@ -1,0 +1,38 @@
+# Olá, eu sou o Pedro Conhasca! 👋
+
+### Desenvolvedor Full Stack em Formação | Apaixonado por Acessibilidade e Tecnologia com Propósito
+
+Sou graduando em Análise e Desenvolvimento de Sistemas na **Universidade La Salle** e estagiário de Desenvolvimento de Software na **Fundação Municipal de Educação de Niterói (FME)**. 
+
+---
+
+## 🛠 No que estou trabalhando atualmente:
+
+- 🔭 Atualmente colaborando no projeto **[Intranet-FME](https://github.com/Coordenacao-Sistema-DTI-FME/Intranet-fme)**, focado em soluções corporativas eficientes.
+- 🌱 Aprimorando meus conhecimentos em desenvolvimento web e integração de sistemas.
+- ♿ Desenvolvendo o **Basenior**, um conjunto de ferramentas de acessibilidade para tornar a navegação web mais simples para idosos.
+
+
+
+## 🚀 Minhas Tecnologias:
+
+### Linguagens e Frameworks
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Ferramentas e DevOps
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+## 📫 Como me encontrar:
+
+- **LinkedIn:** https://www.linkedin.com/in/pedro-conhasca-599b80216/
+- **E-mail:** conhasca.dev@gmail.com
+---
+
+> "Código é como humor. Quando você tem que explicar, é ruim." – *Cory House* (E eu trabalho para que meus códigos e interfaces sejam explicativos por si só através da acessibilidade!)
