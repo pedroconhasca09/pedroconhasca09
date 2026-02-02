@@ -8,9 +8,10 @@ Sou graduando em Análise e Desenvolvimento de Sistemas na **Universidade La Sal
 
 ## 🛠 No que estou trabalhando atualmente:
 
-- 🔭 Atualmente colaborando no projeto **[Intranet-FME](https://github.com/Coordenacao-Sistema-DTI-FME/Intranet-fme)**, focado em soluções corporativas eficientes.
-- 🌱 Aprimorando meus conhecimentos em desenvolvimento web e integração de sistemas.
-- ♿ Desenvolvendo o **Basenior**, um conjunto de ferramentas de acessibilidade para tornar a navegação web mais simples para idosos.
+- 🔭 Colaborando no desenvolvimento de sistemas internos na **FME Niterói**.
+- 🚀 Aprimorando projetos robustos utilizando **PHP** e **Laravel**.
+- 🐍 Desenvolvendo scripts e integrações com **Python**.
+- ♿ Estudando e trabalhando com recursos de **Acessibilidade Web (A11y)** no meu estágio atual na FME Niterói, aplicando diretrizes de inclusão em sistemas de impacto governamental.
 
 
 
