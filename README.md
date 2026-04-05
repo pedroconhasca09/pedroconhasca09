@@ -9,7 +9,7 @@ Sou graduando em Análise e Desenvolvimento de Sistemas na **Universidade La Sal
 ## 🛠 No que estou trabalhando atualmente:
 
 - 🔭 Colaborando no desenvolvimento de sistemas internos na **FME Niterói**.
-- 🚀 Aprimorando projetos robustos utilizando **PHP**, **Laravel** **Python** e **Django**.
+- 🚀 Aprimorando projetos robustos utilizando **PHP**, **Laravel**,**React**, **Javascript**, **Python** e **Django**.
 - 🐍 Desenvolvendo scripts e integrações com **Python**.
 - ♿ Estudando e trabalhando com recursos de **Acessibilidade Web (A11y)** no meu estágio atual na FME Niterói, aplicando diretrizes de inclusão em sistemas de impacto governamental.
 
