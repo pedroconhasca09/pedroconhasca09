@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack em Formação | Apaixonado por Acessibilidade e Tecnologia com Propósito
 
-Sou graduando em Análise e Desenvolvimento de Sistemas na **Universidade La Salle** e estagiário de Desenvolvimento de Software na **Fundação Municipal de Educação de Niterói (FME)**. 
+Sou graduando em Análise e Desenvolvimento de Sistemas e Engenharia de Software, atuando como estagiário de Desenvolvimento de Software na **Fundação Municipal de Educação de Niterói (FME)**. 
 
 ---
 
@@ -11,7 +11,6 @@ Sou graduando em Análise e Desenvolvimento de Sistemas na **Universidade La Sal
 - 🔭 Colaborando no desenvolvimento de sistemas internos na **FME Niterói**.
 - 🚀 Aprimorando projetos robustos utilizando **PHP**, **Laravel**, **React**, **Javascript**, **Python** e **Django**.
 - 🐍 Desenvolvendo scripts e integrações com **Python**.
-- ♿ Estudando e trabalhando com recursos de **Acessibilidade Web (A11y)** no meu estágio atual na FME Niterói, aplicando diretrizes de inclusão em sistemas de impacto governamental.
 
 
 
