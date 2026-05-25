@@ -60,16 +60,16 @@ Tenho uma base sólida construída a partir da minha transição da infraestrutu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroconhasca09&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pedroconhasca09&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 </p>
 
 ---
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-conhasca/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-conhasca-599b80216/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:conhasca.dev@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://pedroconhasca09.vercel.app)
+
 
 <br/>
 <p align="center"><i>"Forte base em resolução de problemas complexos, sempre buscando aprender e aplicar novas tecnologias."</i></p>
