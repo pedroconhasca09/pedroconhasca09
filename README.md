@@ -1,6 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack+%7C+JavaScript%2FTypeScript+%7C+React+%7C+Node.js;Transformando+requisitos+em+soluções+escaláveis+e+de+alto+impacto;Bem-vindo+ao+meu+perfil+no+GitHub!+🚀" alt="Typing SVG" /></a>
-
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Pedro Conhasca!
 
 Sou um **Desenvolvedor Full Stack** apaixonado por transformar ideias em soluções digitais robustas, seguras e escaláveis. Com uma base sólida em infraestrutura de TI e suporte, migrei para o desenvolvimento de software, onde hoje atuo em projetos de **alto impacto governamental**.
 
@@ -42,7 +40,6 @@ Minha jornada me proporcionou uma visão única do ciclo de vida do software: do
 
 - **Sistemas Governamentais de Alto Impacto:** Atuo no desenvolvimento de soluções que atendem milhares de usuários.
 - **Intranet Institucional:** Criação de portais internos para otimizar a comunicação e o acesso a serviços.
-- **Automação de Atendimento:** Desenvolvimento de sistemas para gestão e automação de atendimento a estudantes.
 - **Metodologia Ágil:** Trabalho diário com Kanban, garantindo entregas contínuas e priorização eficiente.
 
 ---
@@ -53,7 +50,7 @@ Sou um eterno aprendiz. Atualmente, estou investindo em minha base teórica e pr
 
 - 🎓 **Engenharia de Software** (Cursando)
 - 🎓 **Análise e Desenvolvimento de Sistemas** (Cursando)
-- 📚 **Desenvolvimento Avançado:** Aprimorando constantemente minhas hard skills.
+- 📚 **Desenvolvimento Avançado:** Aprimorando constantemente minhas hard skills e soft skills.
 - 🤖 **IA & Produtividade:** Utilizando Inteligência Artificial para acelerar o desenvolvimento e a resolução de problemas.
 - 🇺🇸 **Inglês:** Foco em melhorar a proficiência para o mercado global.
 
@@ -62,13 +59,11 @@ Sou um eterno aprendiz. Atualmente, estou investindo em minha base teórica e pr
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/pedroconhasca09">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroconhasca09&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
-
-> **Nota:** Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub para ativar as estatísticas.
 
 ---
 
@@ -76,9 +71,8 @@ Sou um eterno aprendiz. Atualmente, estou investindo em minha base teórica e pr
 
 Estou sempre aberto a **novas conexões**, **trocas de conhecimento** e **oportunidades desafiadoras**. Se você quer bater um papo sobre tecnologia, colaborar em um projeto ou apenas trocar ideias, não hesite em me chamar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](LINK_DO_SEU_GITHUB)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-conhasca-599b80216/?skipRedirect=true)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:conhasca.dev@gmail.com)
 
 ---
 
