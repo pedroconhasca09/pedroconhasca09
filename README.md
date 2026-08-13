@@ -32,7 +32,6 @@ Minha jornada me proporcionou uma visão única do ciclo de vida do software: do
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
@@ -59,10 +58,12 @@ Sou um eterno aprendiz. Atualmente, estou investindo em minha base teórica e pr
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/pedroconhasca09">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroconhasca09&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroconhasca09&layout=compact&langs_count=7&theme=radical"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroconhasca09&theme=radical"/>
+  <a href="https://github.com/pedroconhasca09" target="_blank">
+    <!-- Estatísticas Gerais e Linguagens integradas em um visual minimalista -->
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroconhasca09&theme=radical" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroconhasca09&theme=radical" />
+    <!-- O card de Streak que já estava funcionando -->
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroconhasca09&theme=radical" />
   </a>
 </div>
 
