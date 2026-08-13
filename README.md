@@ -60,8 +60,9 @@ Sou um eterno aprendiz. Atualmente, estou investindo em minha base teórica e pr
 
 <div align="center">
   <a href="https://github.com/pedroconhasca09">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroconhasca09&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroconhasca09&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroconhasca09&theme=radical"/>
   </a>
 </div>
 
@@ -72,7 +73,6 @@ Sou um eterno aprendiz. Atualmente, estou investindo em minha base teórica e pr
 Estou sempre aberto a **novas conexões**, **trocas de conhecimento** e **oportunidades desafiadoras**. Se você quer bater um papo sobre tecnologia, colaborar em um projeto ou apenas trocar ideias, não hesite em me chamar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-conhasca-599b80216/?skipRedirect=true)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:conhasca.dev@gmail.com)
 
 ---
 
